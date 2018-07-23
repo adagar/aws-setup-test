@@ -1,0 +1,11 @@
+C:\Users\A Nick Garza\Desktop\CareerDevs\aws-setup-test\aws-setup-test\bin\Debug\netcoreapp2.0\aws-setup-test.deps.json
+C:\Users\A Nick Garza\Desktop\CareerDevs\aws-setup-test\aws-setup-test\bin\Debug\netcoreapp2.0\aws-setup-test.runtimeconfig.json
+C:\Users\A Nick Garza\Desktop\CareerDevs\aws-setup-test\aws-setup-test\bin\Debug\netcoreapp2.0\aws-setup-test.runtimeconfig.dev.json
+C:\Users\A Nick Garza\Desktop\CareerDevs\aws-setup-test\aws-setup-test\bin\Debug\netcoreapp2.0\aws-setup-test.dll
+C:\Users\A Nick Garza\Desktop\CareerDevs\aws-setup-test\aws-setup-test\bin\Debug\netcoreapp2.0\aws-setup-test.pdb
+C:\Users\A Nick Garza\Desktop\CareerDevs\aws-setup-test\aws-setup-test\obj\Debug\netcoreapp2.0\aws-setup-test.csprojAssemblyReference.cache
+C:\Users\A Nick Garza\Desktop\CareerDevs\aws-setup-test\aws-setup-test\obj\Debug\netcoreapp2.0\aws-setup-test.csproj.CoreCompileInputs.cache
+C:\Users\A Nick Garza\Desktop\CareerDevs\aws-setup-test\aws-setup-test\obj\Debug\netcoreapp2.0\aws-setup-test.AssemblyInfoInputs.cache
+C:\Users\A Nick Garza\Desktop\CareerDevs\aws-setup-test\aws-setup-test\obj\Debug\netcoreapp2.0\aws-setup-test.AssemblyInfo.cs
+C:\Users\A Nick Garza\Desktop\CareerDevs\aws-setup-test\aws-setup-test\obj\Debug\netcoreapp2.0\aws-setup-test.dll
+C:\Users\A Nick Garza\Desktop\CareerDevs\aws-setup-test\aws-setup-test\obj\Debug\netcoreapp2.0\aws-setup-test.pdb
